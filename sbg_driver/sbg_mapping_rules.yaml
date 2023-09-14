@@ -1,0 +1,140 @@
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgAirData'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgAirData'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgAirDataStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgAirDataStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgEkfEuler'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgEkfEuler'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgEkfNav'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgEkfNav'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgEkfQuat'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgEkfQuat'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgEkfStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgEkfStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgEvent'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgEvent'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsHdt'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsHdt'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsPos'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsPos'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsPosStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsPosStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsRaw'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsRaw'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsVel'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsVel'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgGpsVelStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgGpsVelStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgImuData'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgImuData'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgImuShort'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgImuShort'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgImuStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgImuStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgMagCalib'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgMagCalib'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgMag'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgMag'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgMagStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgMagStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgOdoVel'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgOdoVel'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgShipMotion'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgShipMotion'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgShipMotionStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgShipMotionStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgStatusAiding'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgStatusAiding'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgStatusCom'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgStatusCom'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgStatusGeneral'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgStatusGeneral'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgStatus'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgUtcTime'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgUtcTime'
+-
+  ros1_package_name: 'sbg_driver'
+  ros1_message_name: 'SbgUtcTimeStatus'
+  ros2_package_name: 'sbg_driver'
+  ros2_message_name: 'SbgUtcTimeStatus'
